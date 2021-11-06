@@ -1,0 +1,6 @@
+Credentials cache: API:DE178A37-B9D1-426A-BA88-2BD2DF4B7CD8
+        Principal: ctardy@42NICE.FR
+
+  Issued                Expires             Flags    Principal
+Sep  6 10:51:37 2021  Sep  6 20:51:37 2021  FPRIA  krbtgt/42NICE.FR@42NICE.FR
+Sep  6 10:51:41 2021  Sep  6 20:51:37 2021  FPA    HTTP/student-storage.42nice.fr@42NICE.FR
